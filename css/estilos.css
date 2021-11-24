@@ -1,0 +1,41 @@
+header .container{
+    padding: 15px 20px 1px 40px;
+}
+
+
+
+
+
+
+.mi-card-hotel{
+    flex: 1 200px;
+    padding: 2px 5px;
+    margin-top: 8px;
+}
+
+.mi-button-card{
+    width:100%;
+    border-radius: 0px;
+}
+
+footer{
+    background-color: black;
+    padding: 10px 10px 0 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    color: white;
+    text-align: center;
+}
+
+footer .row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+footer a{
+    color: white;
+}
+
+footer .material-icons{
+    padding-right: 16px;
+}
